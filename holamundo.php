@@ -7,5 +7,7 @@
 	<?php
 		echo "<h2>HOLA MUNDO</h2>";
 	?>
+	<br/>
+	<img src="logo.jpg" />
 </body>
 </html>
